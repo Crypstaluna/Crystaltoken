@@ -1,0 +1,48 @@
+2025-05-17T17:04:03.931Z-05:00 | INFO | -->(9d52) GET https://api.cloudflareclient.com/v0a4762/reg/0150c3a2-d6ad-46e2-9d45-75d82480126e/account
+2025-05-17T17:04:03.958Z-05:00 | INFO | SplashActivity: User launched SplashActivity
+2025-05-17T17:04:04.292Z-05:00 | INFO | <--(9d52) 200 OK https://api.cloudflareclient.com/v0a4762/reg/0150c3a2-d6ad-46e2-9d45-75d82480126e/account (360ms, unknown-length body)
+2025-05-17T17:04:04.350Z-05:00 | INFO | TunnelRestartService: AppMode changed, restarting tunnel if already connected
+2025-05-17T17:04:04.363Z-05:00 | DEBUG | SubscriptionsManager: notify the API and acknowledge the subscription purchase if available.
+2025-05-17T17:04:04.363Z-05:00 | DEBUG | SubscriptionsManager: purchase is not available, subscriptionAck value in datastore: false
+2025-05-17T17:04:06.030Z-05:00 | DEBUG | SplashActivity: Cannot retrieve the referrer ID -  com.cloudflare.app.helpers.EmptyResultException: Task returned empty (null) result, start the app normally.
+2025-05-17T17:04:06.032Z-05:00 | INFO | VerifyAppState: check if CFOne app is installed and initialized
+2025-05-17T17:04:06.032Z-05:00 | INFO | PackageInstalledChecker: com.cloudflare.cloudflareoneagent is NOT installed
+2025-05-17T17:04:06.032Z-05:00 | INFO | VerifyAppState: CFone app is not Installed
+2025-05-17T17:04:06.036Z-05:00 | DEBUG | SubscriptionsManager: notify the API and acknowledge the subscription purchase if available.
+2025-05-17T17:04:06.036Z-05:00 | DEBUG | SubscriptionsManager: purchase is not available, subscriptionAck value in datastore: false
+2025-05-17T17:04:06.093Z-05:00 | INFO | MainActivity: User launched MainActivity
+2025-05-17T17:04:06.136Z-05:00 | INFO | -->(193d) GET https://api.cloudflareclient.com/v0a4762/client_config
+2025-05-17T17:04:06.145Z-05:00 | DEBUG | RegistrationDataObservable: Fetch registration data with default network config
+2025-05-17T17:04:06.151Z-05:00 | INFO | -->(9a03) GET https://api.cloudflareclient.com/v0a4762/reg/0150c3a2-d6ad-46e2-9d45-75d82480126e
+2025-05-17T17:04:06.158Z-05:00 | INFO | <--(193d) 200 OK https://api.cloudflareclient.com/v0a4762/client_config (22ms, unknown-length body)
+2025-05-17T17:04:06.194Z-05:00 | INFO | -->(1f87) GET https://api.cloudflareclient.com/v0a4762/reg/0150c3a2-d6ad-46e2-9d45-75d82480126e/account
+2025-05-17T17:04:06.201Z-05:00 | INFO | Device name already registered or account not created
+2025-05-17T17:04:06.428Z-05:00 | INFO | <--(1f87) 200 OK https://api.cloudflareclient.com/v0a4762/reg/0150c3a2-d6ad-46e2-9d45-75d82480126e/account (233ms, unknown-length body)
+2025-05-17T17:04:06.610Z-05:00 | INFO | <--(9a03) 200 OK https://api.cloudflareclient.com/v0a4762/reg/0150c3a2-d6ad-46e2-9d45-75d82480126e (458ms, unknown-length body)
+2025-05-17T17:04:07.611Z-05:00 | INFO | MainActivity: invoke and check registration diff
+2025-05-17T17:04:07.611Z-05:00 | INFO | RefreshRegistrationWorker: Inside checkDiffAndProcessRegistrationData, initial registration data - RegistrationResponseWithoutToken(id=0150c3a2-d6ad-46e2-9d45-75d82480126e, config=WarpTunnelConfig(peers=[WarpPeer(publicKey=-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG
+7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==
+-----END PUBLIC KEY-----
+, endpoint=PeerTunnelAddresses(v4=162.159.198.1:0, v6=[2606:4700:103::1]:0, ports=[443, 500, 1701, 4500, 4443, 8443, 8095]))], tunnelAddressWrapper=TunnelAddressWrapper(tunnelAddresses=TunnelAddresses(v4=172.16.0.2, v6=2606:4700:110:887d:120:d398:ebfa:4fe7)), edgeProxyWrapper=EdgeProxyWrapper(edgeProxyAddress=172.16.0.1:2480)), account=AccountData(id=50acdc04-dd0c-4628-837f-e8e484f86d83, accountType=FREE, warpBytesLimit=0, warpBytesRemaining=0, nextBillingDate=null, referralCount=0, license=9W5X3I1h-6fG7d89D-goC953s6, managed=null, role=CHILD), policy=AppConfiguration(organization=null, enable=null, serviceMode=null, serviceModeV2=null, gatewayUniqueId=null, supportUrl=null, showOnboarding=null, exclude=null, include=null, fallbackDomains=null, switchLocked=null, autoConnect=null, managedMode=null, allowModeSwitch=null, authClientId=null, authClientSecret=null, allowedToLeave=null, overrideDohEndpoint=null, overrideWarpEndpoint=null, overrideApiEndpoint=null, uniqueClientId=null, tunnelProtocol=MASQUE, policyId=null), overrideCodes=null, alternateNetworks=null, dexTests=null, keyType=secp256r1, tunnelType=MASQUE)
+2025-05-17T17:04:07.611Z-05:00 | INFO | AppConfigurationManager: tunnel protocol received from the API is different compared to the one on a user's device
+2025-05-17T17:04:07.612Z-05:00 | INFO | RefreshRegistrationWorker: registration data after tunnel protocol verification - null
+2025-05-17T17:04:07.614Z-05:00 | INFO | RefreshRegistrationWorker: Empty MDM config, just process policy received from API
+2025-05-17T17:04:07.614Z-05:00 | INFO | RefreshRegistrationWorker: Combine mdm policy (if available) with policy received from the API response
+2025-05-17T17:04:07.615Z-05:00 | INFO | RefreshRegistrationWorker: previous and current registrationData diff=true
+2025-05-17T17:04:07.615Z-05:00 | INFO | AppConfigurationManager: store warp details
+2025-05-17T17:04:07.617Z-05:00 | INFO | RefreshRegistrationWorker: checkDiffAndProcessRegistrationData - app config: AppConfiguration(organization=null, enable=null, serviceMode=WARP, serviceModeV2=null, gatewayUniqueId=null, supportUrl=null, showOnboarding=null, exclude=null, include=null, fallbackDomains=null, switchLocked=null, autoConnect=null, managedMode=null, allowModeSwitch=null, authClientId=null, authClientSecret=null, allowedToLeave=null, overrideDohEndpoint=null, overrideWarpEndpoint=null, overrideApiEndpoint=null, uniqueClientId=null, tunnelProtocol=MASQUE, policyId=null)
+2025-05-17T17:04:07.617Z-05:00 | INFO | RefreshRegistrationWorker: service is not running, just execute DP rules
+2025-05-17T17:04:10.083Z-05:00 | INFO | InstallVPNProfileActivity: Launch system generated confirmation dialog to install VPN profile using registerForActivityResult
+2025-05-17T17:04:10.193Z-05:00 | INFO | InstallVPNProfileActivity: received activity result. requestCode=false, resultCode=0
+2025-05-17T17:04:31.458Z-05:00 | INFO | InstallVPNProfileActivity: Launch system generated confirmation dialog to install VPN profile using registerForActivityResult
+2025-05-17T17:04:31.500Z-05:00 | INFO | InstallVPNProfileActivity: received activity result. requestCode=false, resultCode=0
+2025-05-17T17:05:12.933Z-05:00 | INFO | InstallVPNProfileActivity: Launch system generated confirmation dialog to install VPN profile using registerForActivityResult
+2025-05-17T17:05:12.983Z-05:00 | INFO | InstallVPNProfileActivity: received activity result. requestCode=false, resultCode=0
+2025-05-17T17:05:15.231Z-05:00 | INFO | CancellationDialog: user clicked other problem button
+2025-05-17T17:05:15.250Z-05:00 | INFO | CancellationDialog: calling user support page
+2025-05-17T17:05:15.421Z-05:00 | INFO | SubmitFeedbackInterstitialActivity: Trace url: https://connectivity.cloudflareclient.com/cdn-cgi/trace
+2025-05-17T17:05:24.384Z-05:00 | INFO | DiagnosticsActivity: User inside onCreate
+2025-05-17T17:05:24.386Z-05:00 | INFO | DiagnosticsManager: Trace url: https://connectivity.cloudflareclient.com/cdn-cgi/trace
+2025-05-17T17:05:51.247Z-05:00 | INFO | LogsProcessor: Client Version: a-6.38.2-4762
+2025-05-17T17:05:51.247Z-05:00 | INFO | LogsProcessor: Android version: 14

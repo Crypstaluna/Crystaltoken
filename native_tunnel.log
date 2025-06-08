@@ -1,0 +1,722 @@
+2025-05-15T05:35:00.382194Z write    
+2025-05-15T05:35:00.385496Z log="Application process initiated"
+2025-05-15T05:35:00.385955Z Inside initialize_java_runtime
+2025-05-15T05:35:00.391942Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-15T05:35:00.392034Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-15T05:35:00.392260Z Attached thread tokio-runtime-worker (ThreadId(9)). 7 threads attached    
+2025-05-15T05:35:00.391934Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T05:35:00.392083Z Attached thread tokio-runtime-worker (ThreadId(8)). 4 threads attached    
+2025-05-15T05:35:00.392124Z Attached thread tokio-runtime-worker (ThreadId(7)). 5 threads attached    
+2025-05-15T05:35:00.392242Z Attached thread tokio-runtime-worker (ThreadId(5)). 6 threads attached    
+2025-05-15T05:35:00.392519Z Attached thread tokio-runtime-worker (ThreadId(10)). 8 threads attached    
+2025-05-15T05:35:07.033857Z generate_key_pair    
+2025-05-15T05:35:07.286079Z key_tunnel_registration_payload    
+2025-05-15T05:35:08.383305Z generate_key_pair    
+2025-05-15T05:35:08.392251Z key_tunnel_registration_payload    
+2025-05-15T13:09:22.352741Z write    
+2025-05-15T13:09:22.367861Z log="Application process initiated"
+2025-05-15T13:09:22.369081Z Inside initialize_java_runtime
+2025-05-15T13:09:22.404359Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-15T13:09:22.403930Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-15T13:09:22.419714Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T13:09:22.422527Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-15T13:10:40.833526Z write    
+2025-05-15T13:10:40.890698Z log="Application process initiated"
+2025-05-15T13:10:40.893602Z Inside initialize_java_runtime
+2025-05-15T13:10:40.948429Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-15T13:10:40.951585Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-15T13:10:40.953293Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-15T13:10:40.952416Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-15T13:30:12.991819Z write    
+2025-05-15T13:30:12.996874Z log="Application process initiated"
+2025-05-15T13:30:12.997804Z Inside initialize_java_runtime
+2025-05-15T13:30:13.009012Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T13:30:13.010128Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-15T13:30:13.011014Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-15T13:30:13.011186Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-15T13:45:56.220143Z write    
+2025-05-15T13:45:56.235176Z log="Application process initiated"
+2025-05-15T13:45:56.236267Z Inside initialize_java_runtime
+2025-05-15T13:45:56.263545Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-15T13:45:56.263334Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-15T13:45:56.260743Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-15T13:45:56.268353Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-15T13:46:25.947543Z write    
+2025-05-15T13:46:25.952276Z log="Application process initiated"
+2025-05-15T13:46:25.953150Z Inside initialize_java_runtime
+2025-05-15T13:46:25.962512Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T13:46:25.962815Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-15T13:46:25.962652Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-15T13:46:25.962921Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-15T13:55:02.827902Z write    
+2025-05-15T13:55:02.857910Z log="Application process initiated"
+2025-05-15T13:55:02.859341Z Inside initialize_java_runtime
+2025-05-15T13:55:02.910230Z Attached thread tokio-runtime-worker (ThreadId(7)). 1 threads attached    
+2025-05-15T13:55:02.910572Z Attached thread tokio-runtime-worker (ThreadId(9)). 3 threads attached    
+2025-05-15T13:55:02.910655Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-15T13:55:02.910733Z Attached thread tokio-runtime-worker (ThreadId(5)). 5 threads attached    
+2025-05-15T13:55:02.912797Z Attached thread tokio-runtime-worker (ThreadId(8)). 7 threads attached    
+2025-05-15T13:55:02.911623Z Attached thread tokio-runtime-worker (ThreadId(4)). 6 threads attached    
+2025-05-15T13:55:02.910383Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-15T14:24:20.043917Z write    
+2025-05-15T14:24:20.089966Z log="Application process initiated"
+2025-05-15T14:24:20.090747Z Inside initialize_java_runtime
+2025-05-15T14:24:20.103007Z Attached thread tokio-runtime-worker (ThreadId(9)). 2 threads attached    
+2025-05-15T14:24:20.102326Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T14:24:20.104081Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-15T14:24:20.104239Z Attached thread tokio-runtime-worker (ThreadId(7)). 5 threads attached    
+2025-05-15T14:24:20.104338Z Attached thread tokio-runtime-worker (ThreadId(8)). 6 threads attached    
+2025-05-15T14:24:20.103178Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-15T14:24:20.104473Z Attached thread tokio-runtime-worker (ThreadId(4)). 7 threads attached    
+2025-05-15T14:39:54.621749Z write    
+2025-05-15T14:39:54.627806Z log="Application process initiated"
+2025-05-15T14:39:54.628309Z Inside initialize_java_runtime
+2025-05-15T14:39:54.653691Z Attached thread tokio-runtime-worker (ThreadId(5)). 1 threads attached    
+2025-05-15T14:39:54.654094Z Attached thread tokio-runtime-worker (ThreadId(6)). 5 threads attached    
+2025-05-15T14:39:54.653857Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-15T14:39:54.653845Z Attached thread tokio-runtime-worker (ThreadId(9)). 3 threads attached    
+2025-05-15T14:39:54.653729Z Attached thread tokio-runtime-worker (ThreadId(7)). 2 threads attached    
+2025-05-15T14:39:54.662465Z Attached thread tokio-runtime-worker (ThreadId(3)). 6 threads attached    
+2025-05-15T14:39:54.662850Z Attached thread tokio-runtime-worker (ThreadId(8)). 7 threads attached    
+2025-05-15T14:54:56.488158Z write    
+2025-05-15T14:54:56.520675Z log="Application process initiated"
+2025-05-15T14:54:56.530558Z Inside initialize_java_runtime
+2025-05-15T14:54:56.639505Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T14:54:56.640154Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-15T14:54:56.645441Z Attached thread tokio-runtime-worker (ThreadId(9)). 3 threads attached    
+2025-05-15T14:54:56.646202Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-15T14:54:56.649957Z Attached thread tokio-runtime-worker (ThreadId(7)). 5 threads attached    
+2025-05-15T14:54:56.650058Z Attached thread tokio-runtime-worker (ThreadId(6)). 6 threads attached    
+2025-05-15T14:54:56.652389Z Attached thread tokio-runtime-worker (ThreadId(8)). 7 threads attached    
+2025-05-15T15:13:21.346752Z write    
+2025-05-15T15:13:21.363953Z log="Application process initiated"
+2025-05-15T15:13:21.364505Z Inside initialize_java_runtime
+2025-05-15T15:13:21.375162Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T15:13:21.375292Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-15T15:13:21.375491Z Attached thread tokio-runtime-worker (ThreadId(7)). 3 threads attached    
+2025-05-15T15:13:21.379426Z Attached thread tokio-runtime-worker (ThreadId(9)). 4 threads attached    
+2025-05-15T15:13:21.379544Z Attached thread tokio-runtime-worker (ThreadId(6)). 5 threads attached    
+2025-05-15T15:13:21.381149Z Attached thread tokio-runtime-worker (ThreadId(5)). 6 threads attached    
+2025-05-15T15:13:21.384397Z Attached thread tokio-runtime-worker (ThreadId(8)). 7 threads attached    
+2025-05-15T15:28:37.195628Z write    
+2025-05-15T15:28:37.200312Z log="Application process initiated"
+2025-05-15T15:28:37.200888Z Inside initialize_java_runtime
+2025-05-15T15:28:37.208148Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-15T15:28:37.208270Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-15T15:28:37.208109Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T15:28:37.208669Z Attached thread tokio-runtime-worker (ThreadId(6)). 5 threads attached    
+2025-05-15T15:28:37.208317Z Attached thread tokio-runtime-worker (ThreadId(8)). 4 threads attached    
+2025-05-15T15:28:37.208714Z Attached thread tokio-runtime-worker (ThreadId(9)). 6 threads attached    
+2025-05-15T15:28:37.209017Z Attached thread tokio-runtime-worker (ThreadId(7)). 7 threads attached    
+2025-05-15T15:43:55.219917Z write    
+2025-05-15T15:43:55.223741Z log="Application process initiated"
+2025-05-15T15:43:55.224533Z Inside initialize_java_runtime
+2025-05-15T15:43:55.230856Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-15T15:43:55.230715Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T15:43:55.230826Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-15T15:43:55.230715Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-15T15:43:55.231006Z Attached thread tokio-runtime-worker (ThreadId(9)). 7 threads attached    
+2025-05-15T15:43:55.230930Z Attached thread tokio-runtime-worker (ThreadId(7)). 5 threads attached    
+2025-05-15T15:43:55.230959Z Attached thread tokio-runtime-worker (ThreadId(8)). 6 threads attached    
+2025-05-15T15:56:01.459029Z write    
+2025-05-15T15:56:01.464120Z log="Application process initiated"
+2025-05-15T15:56:01.465119Z Inside initialize_java_runtime
+2025-05-15T15:56:01.474637Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-15T15:56:01.474874Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-15T15:56:01.475129Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-15T15:56:01.474761Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-15T15:59:04.787192Z write    
+2025-05-15T15:59:04.844608Z log="Application process initiated"
+2025-05-15T15:59:04.846551Z Inside initialize_java_runtime
+2025-05-15T15:59:04.984313Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-15T15:59:04.985099Z Attached thread tokio-runtime-worker (ThreadId(9)). 1 threads attached    
+2025-05-15T15:59:04.984375Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-15T15:59:04.984498Z Attached thread tokio-runtime-worker (ThreadId(8)). 5 threads attached    
+2025-05-15T15:59:04.984581Z Attached thread tokio-runtime-worker (ThreadId(7)). 6 threads attached    
+2025-05-15T15:59:04.984717Z Attached thread tokio-runtime-worker (ThreadId(4)). 7 threads attached    
+2025-05-15T15:59:04.984315Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-15T16:00:18.132107Z write    
+2025-05-15T16:00:18.157140Z log="Application process initiated"
+2025-05-15T16:00:18.161708Z Inside initialize_java_runtime
+2025-05-15T16:00:18.290459Z Attached thread tokio-runtime-worker (ThreadId(6)). 1 threads attached    
+2025-05-15T16:00:18.291683Z Attached thread tokio-runtime-worker (ThreadId(5)). 6 threads attached    
+2025-05-15T16:00:18.290917Z Attached thread tokio-runtime-worker (ThreadId(8)). 3 threads attached    
+2025-05-15T16:00:18.291154Z Attached thread tokio-runtime-worker (ThreadId(7)). 4 threads attached    
+2025-05-15T16:00:18.291312Z Attached thread tokio-runtime-worker (ThreadId(4)). 5 threads attached    
+2025-05-15T16:00:18.290639Z Attached thread tokio-runtime-worker (ThreadId(9)). 2 threads attached    
+2025-05-15T16:00:18.293830Z Attached thread tokio-runtime-worker (ThreadId(3)). 7 threads attached    
+2025-05-16T03:17:27.139214Z write    
+2025-05-16T03:17:27.149816Z log="Application process initiated"
+2025-05-16T03:17:27.150909Z Inside initialize_java_runtime
+2025-05-16T03:17:27.162443Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-16T03:17:27.162869Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T03:17:27.162744Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-16T03:17:27.163295Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T03:35:10.547028Z write    
+2025-05-16T03:35:10.552237Z log="Application process initiated"
+2025-05-16T03:35:10.553258Z Inside initialize_java_runtime
+2025-05-16T03:35:10.567206Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T03:35:10.567559Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-16T03:35:10.567343Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T03:35:10.567206Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T03:51:16.855157Z write    
+2025-05-16T03:51:16.865578Z log="Application process initiated"
+2025-05-16T03:51:16.867578Z Inside initialize_java_runtime
+2025-05-16T03:51:16.882506Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T03:51:16.882816Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T03:51:16.883010Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-16T03:51:16.885813Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-16T04:11:26.876111Z write    
+2025-05-16T04:11:26.938444Z log="Application process initiated"
+2025-05-16T04:11:26.939560Z Inside initialize_java_runtime
+2025-05-16T04:11:26.995582Z Attached thread tokio-runtime-worker (ThreadId(5)). 1 threads attached    
+2025-05-16T04:11:26.995883Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-16T04:11:26.998217Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-16T04:11:27.014363Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-16T04:27:46.521688Z write    
+2025-05-16T04:27:46.528504Z log="Application process initiated"
+2025-05-16T04:27:46.529635Z Inside initialize_java_runtime
+2025-05-16T04:27:46.544068Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-16T04:27:46.543610Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T04:27:46.546110Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-16T04:27:46.546353Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-16T04:45:18.583107Z write    
+2025-05-16T04:45:18.628308Z log="Application process initiated"
+2025-05-16T04:45:18.640506Z Inside initialize_java_runtime
+2025-05-16T04:45:18.706799Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T04:45:18.708966Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T04:45:18.710150Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T04:45:18.712349Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T05:00:47.166904Z write    
+2025-05-16T05:00:47.182519Z log="Application process initiated"
+2025-05-16T05:00:47.188166Z Inside initialize_java_runtime
+2025-05-16T05:00:47.207294Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T05:00:47.207788Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-16T05:00:47.208328Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-16T05:00:47.213197Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T05:16:56.201104Z write    
+2025-05-16T05:16:56.220549Z log="Application process initiated"
+2025-05-16T05:16:56.222260Z Inside initialize_java_runtime
+2025-05-16T05:16:56.240436Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-16T05:16:56.242447Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-16T05:16:56.243663Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-16T05:16:56.251663Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T05:32:09.519818Z write    
+2025-05-16T05:32:09.527750Z log="Application process initiated"
+2025-05-16T05:32:09.529479Z Inside initialize_java_runtime
+2025-05-16T05:32:09.578434Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-16T05:32:09.578635Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T05:32:09.581193Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-16T05:32:09.578423Z Attached thread tokio-runtime-worker (ThreadId(5)). 1 threads attached    
+2025-05-16T05:47:30.674750Z write    
+2025-05-16T05:47:30.724450Z log="Application process initiated"
+2025-05-16T05:47:30.730538Z Inside initialize_java_runtime
+2025-05-16T05:47:30.789368Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T05:47:30.790502Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T05:47:30.791632Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T05:47:30.791930Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-16T06:02:47.843613Z write    
+2025-05-16T06:02:47.856284Z log="Application process initiated"
+2025-05-16T06:02:47.857533Z Inside initialize_java_runtime
+2025-05-16T06:02:47.898976Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-16T06:02:47.889592Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T06:02:47.892813Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T06:02:47.906323Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-16T06:18:27.219641Z write    
+2025-05-16T06:18:27.242512Z log="Application process initiated"
+2025-05-16T06:18:27.243629Z Inside initialize_java_runtime
+2025-05-16T06:18:27.293990Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-16T06:18:27.269252Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-16T06:18:27.270127Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T06:18:27.293921Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T06:33:34.071378Z write    
+2025-05-16T06:33:34.098489Z log="Application process initiated"
+2025-05-16T06:33:34.125031Z Inside initialize_java_runtime
+2025-05-16T06:33:34.149310Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T06:33:34.149805Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-16T06:33:34.149695Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T06:33:34.153067Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-16T06:49:01.946847Z write    
+2025-05-16T06:49:01.953504Z log="Application process initiated"
+2025-05-16T06:49:01.954542Z Inside initialize_java_runtime
+2025-05-16T06:49:01.969533Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T06:49:01.969105Z Attached thread tokio-runtime-worker (ThreadId(5)). 1 threads attached    
+2025-05-16T06:49:01.973324Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T06:49:01.973638Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-16T07:07:22.851741Z write    
+2025-05-16T07:07:22.892305Z log="Application process initiated"
+2025-05-16T07:07:22.894146Z Inside initialize_java_runtime
+2025-05-16T07:07:22.961826Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T07:07:22.962008Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T07:07:22.969020Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-16T07:07:22.961341Z Attached thread tokio-runtime-worker (ThreadId(5)). 1 threads attached    
+2025-05-16T07:27:14.109428Z write    
+2025-05-16T07:27:14.121780Z log="Application process initiated"
+2025-05-16T07:27:14.122941Z Inside initialize_java_runtime
+2025-05-16T07:27:14.144415Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-16T07:27:14.144894Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T07:27:14.144718Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T07:27:14.147157Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-16T07:42:15.842903Z write    
+2025-05-16T07:42:15.847723Z log="Application process initiated"
+2025-05-16T07:42:15.848679Z Inside initialize_java_runtime
+2025-05-16T07:42:15.858609Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T07:42:15.858251Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T07:42:15.859854Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T07:42:15.863827Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T07:58:16.547689Z write    
+2025-05-16T07:58:16.556900Z log="Application process initiated"
+2025-05-16T07:58:16.558961Z Inside initialize_java_runtime
+2025-05-16T07:58:16.580650Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T07:58:16.581541Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-16T07:58:16.582729Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-16T07:58:16.586562Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T08:15:03.416600Z write    
+2025-05-16T08:15:03.425721Z log="Application process initiated"
+2025-05-16T08:15:03.426879Z Inside initialize_java_runtime
+2025-05-16T08:15:03.433886Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T08:15:03.438321Z Attached thread tokio-runtime-worker (ThreadId(8)). 4 threads attached    
+2025-05-16T08:15:03.438500Z Attached thread tokio-runtime-worker (ThreadId(9)). 5 threads attached    
+2025-05-16T08:15:03.440481Z Attached thread tokio-runtime-worker (ThreadId(4)). 6 threads attached    
+2025-05-16T08:15:03.437859Z Attached thread tokio-runtime-worker (ThreadId(7)). 3 threads attached    
+2025-05-16T08:15:03.437343Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-16T08:15:03.469588Z Attached thread tokio-runtime-worker (ThreadId(5)). 7 threads attached    
+2025-05-16T08:30:56.098143Z write    
+2025-05-16T08:30:56.103009Z log="Application process initiated"
+2025-05-16T08:30:56.104184Z Inside initialize_java_runtime
+2025-05-16T08:30:56.114895Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T08:30:56.115199Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-16T08:30:56.115317Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-16T08:30:56.114983Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T13:48:48.787478Z write    
+2025-05-16T13:48:48.795756Z log="Application process initiated"
+2025-05-16T13:48:48.797001Z Inside initialize_java_runtime
+2025-05-16T13:48:48.819638Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T13:48:48.820310Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T13:48:48.820462Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T13:48:48.820214Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T14:12:15.091805Z write    
+2025-05-16T14:12:15.095131Z log="Application process initiated"
+2025-05-16T14:12:15.095708Z Inside initialize_java_runtime
+2025-05-16T14:12:15.102536Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-16T14:12:15.102023Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T14:12:15.102579Z Attached thread tokio-runtime-worker (ThreadId(9)). 5 threads attached    
+2025-05-16T14:12:15.102210Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T14:12:15.102694Z Attached thread tokio-runtime-worker (ThreadId(7)). 6 threads attached    
+2025-05-16T14:12:15.102354Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T14:12:15.102754Z Attached thread tokio-runtime-worker (ThreadId(8)). 7 threads attached    
+2025-05-16T14:28:27.049725Z write    
+2025-05-16T14:28:27.057584Z log="Application process initiated"
+2025-05-16T14:28:27.058440Z Inside initialize_java_runtime
+2025-05-16T14:28:27.070388Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T14:28:27.070184Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T14:28:27.070192Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T14:28:27.070308Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T14:28:27.070507Z Attached thread tokio-runtime-worker (ThreadId(9)). 5 threads attached    
+2025-05-16T14:28:27.070584Z Attached thread tokio-runtime-worker (ThreadId(7)). 6 threads attached    
+2025-05-16T14:28:27.070671Z Attached thread tokio-runtime-worker (ThreadId(8)). 7 threads attached    
+2025-05-16T21:42:36.760061Z write    
+2025-05-16T21:42:36.771118Z log="Application process initiated"
+2025-05-16T21:42:36.771830Z Inside initialize_java_runtime
+2025-05-16T21:42:36.797200Z Attached thread tokio-runtime-worker (ThreadId(6)). 5 threads attached    
+2025-05-16T21:42:36.796848Z Attached thread tokio-runtime-worker (ThreadId(8)). 4 threads attached    
+2025-05-16T21:42:36.796645Z Attached thread tokio-runtime-worker (ThreadId(7)). 3 threads attached    
+2025-05-16T21:42:36.796303Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T21:42:36.800391Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T21:42:36.801314Z Attached thread tokio-runtime-worker (ThreadId(4)). 6 threads attached    
+2025-05-16T21:42:36.801806Z Attached thread tokio-runtime-worker (ThreadId(9)). 7 threads attached    
+2025-05-16T21:58:03.062817Z write    
+2025-05-16T21:58:03.078217Z log="Application process initiated"
+2025-05-16T21:58:03.082115Z Inside initialize_java_runtime
+2025-05-16T21:58:03.127674Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-16T21:58:03.130277Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T21:58:03.134732Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-16T21:58:03.142258Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-16T22:13:08.519925Z write    
+2025-05-16T22:13:08.524691Z log="Application process initiated"
+2025-05-16T22:13:08.525960Z Inside initialize_java_runtime
+2025-05-16T22:13:08.535341Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-16T22:13:08.535336Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T22:13:08.535578Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T22:13:08.535818Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-16T22:46:49.435356Z write    
+2025-05-16T22:46:49.455874Z log="Application process initiated"
+2025-05-16T22:46:49.462477Z Inside initialize_java_runtime
+2025-05-16T22:46:49.497945Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-16T22:46:49.498646Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-16T22:46:49.499188Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-16T22:46:49.509371Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T00:50:17.808119Z write    
+2025-05-17T00:50:17.814335Z log="Application process initiated"
+2025-05-17T00:50:17.814882Z Inside initialize_java_runtime
+2025-05-17T00:50:17.826895Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T00:50:17.826983Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T00:50:17.827316Z Attached thread tokio-runtime-worker (ThreadId(9)). 4 threads attached    
+2025-05-17T00:50:17.827929Z Attached thread tokio-runtime-worker (ThreadId(6)). 5 threads attached    
+2025-05-17T00:50:17.826911Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-17T00:50:17.830106Z Attached thread tokio-runtime-worker (ThreadId(8)). 6 threads attached    
+2025-05-17T00:50:17.832675Z Attached thread tokio-runtime-worker (ThreadId(7)). 7 threads attached    
+2025-05-17T01:05:37.477950Z write    
+2025-05-17T01:05:37.481217Z log="Application process initiated"
+2025-05-17T01:05:37.481718Z Inside initialize_java_runtime
+2025-05-17T01:05:37.486130Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T01:05:37.486454Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T01:05:37.486062Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T01:05:37.486161Z Attached thread tokio-runtime-worker (ThreadId(9)). 3 threads attached    
+2025-05-17T01:05:37.486817Z Attached thread tokio-runtime-worker (ThreadId(6)). 5 threads attached    
+2025-05-17T01:05:37.486889Z Attached thread tokio-runtime-worker (ThreadId(8)). 6 threads attached    
+2025-05-17T01:05:37.486909Z Attached thread tokio-runtime-worker (ThreadId(7)). 7 threads attached    
+2025-05-17T01:20:50.014239Z write    
+2025-05-17T01:20:50.031623Z log="Application process initiated"
+2025-05-17T01:20:50.033417Z Inside initialize_java_runtime
+2025-05-17T01:20:50.060410Z Attached thread tokio-runtime-worker (ThreadId(8)). 1 threads attached    
+2025-05-17T01:20:50.066786Z Attached thread tokio-runtime-worker (ThreadId(7)). 4 threads attached    
+2025-05-17T01:20:50.067870Z Attached thread tokio-runtime-worker (ThreadId(9)). 6 threads attached    
+2025-05-17T01:20:50.066908Z Attached thread tokio-runtime-worker (ThreadId(4)). 5 threads attached    
+2025-05-17T01:20:50.066696Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T01:20:50.060755Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T01:20:50.070950Z Attached thread tokio-runtime-worker (ThreadId(3)). 7 threads attached    
+2025-05-17T01:42:52.116042Z write    
+2025-05-17T01:42:52.142534Z log="Application process initiated"
+2025-05-17T01:42:52.159964Z Inside initialize_java_runtime
+2025-05-17T01:42:52.203707Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T01:42:52.209459Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T01:42:52.208342Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T01:42:52.212001Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T01:59:43.734902Z write    
+2025-05-17T01:59:43.741535Z log="Application process initiated"
+2025-05-17T01:59:43.742764Z Inside initialize_java_runtime
+2025-05-17T01:59:43.756217Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T01:59:43.757102Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T01:59:43.760432Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T01:59:43.760805Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T02:17:41.382611Z write    
+2025-05-17T02:17:41.398961Z log="Application process initiated"
+2025-05-17T02:17:41.405409Z Inside initialize_java_runtime
+2025-05-17T02:17:41.456951Z Attached thread tokio-runtime-worker (ThreadId(2)). 1 threads attached    
+2025-05-17T02:17:41.457295Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-17T02:17:41.457505Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T02:17:41.457659Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T02:53:07.148584Z write    
+2025-05-17T02:53:07.156790Z log="Application process initiated"
+2025-05-17T02:53:07.157439Z Inside initialize_java_runtime
+2025-05-17T02:53:07.178572Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T02:53:07.179217Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T02:53:07.192789Z Attached thread tokio-runtime-worker (ThreadId(9)). 7 threads attached    
+2025-05-17T02:53:07.184862Z Attached thread tokio-runtime-worker (ThreadId(4)). 5 threads attached    
+2025-05-17T02:53:07.179865Z Attached thread tokio-runtime-worker (ThreadId(7)). 3 threads attached    
+2025-05-17T02:53:07.182935Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T02:53:07.188283Z Attached thread tokio-runtime-worker (ThreadId(8)). 6 threads attached    
+2025-05-17T03:08:35.186175Z write    
+2025-05-17T03:08:35.198140Z log="Application process initiated"
+2025-05-17T03:08:35.199128Z Inside initialize_java_runtime
+2025-05-17T03:08:35.241393Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T03:08:35.242467Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-17T03:08:35.241757Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T03:08:35.244073Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T03:24:35.828934Z write    
+2025-05-17T03:24:35.905322Z log="Application process initiated"
+2025-05-17T03:24:35.914893Z Inside initialize_java_runtime
+2025-05-17T03:24:36.011046Z Attached thread tokio-runtime-worker (ThreadId(6)). 1 threads attached    
+2025-05-17T03:24:36.012404Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T03:24:36.012698Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-17T03:24:36.014284Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T03:41:00.823962Z write    
+2025-05-17T03:41:00.858848Z log="Application process initiated"
+2025-05-17T03:41:00.860446Z Inside initialize_java_runtime
+2025-05-17T03:41:00.884126Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T03:41:00.884573Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T03:41:00.884429Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T03:41:00.884741Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T04:00:47.927638Z write    
+2025-05-17T04:00:47.964446Z log="Application process initiated"
+2025-05-17T04:00:47.966287Z Inside initialize_java_runtime
+2025-05-17T04:00:47.987447Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T04:00:47.987544Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T04:00:47.988911Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T04:00:47.987985Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-17T04:17:18.150536Z write    
+2025-05-17T04:17:18.176715Z log="Application process initiated"
+2025-05-17T04:17:18.184826Z Inside initialize_java_runtime
+2025-05-17T04:17:18.216816Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T04:17:18.245273Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T04:17:18.248617Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T04:17:18.255309Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T04:32:26.070262Z write    
+2025-05-17T04:32:26.077125Z log="Application process initiated"
+2025-05-17T04:32:26.078418Z Inside initialize_java_runtime
+2025-05-17T04:32:26.091439Z Attached thread tokio-runtime-worker (ThreadId(5)). 1 threads attached    
+2025-05-17T04:32:26.091701Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T04:32:26.091893Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-17T04:32:26.093958Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-17T04:48:03.036074Z write    
+2025-05-17T04:48:03.040889Z log="Application process initiated"
+2025-05-17T04:48:03.041929Z Inside initialize_java_runtime
+2025-05-17T04:48:03.050967Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T04:48:03.051334Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T04:48:03.051618Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T04:48:03.051845Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T05:03:42.012264Z write    
+2025-05-17T05:03:42.019951Z log="Application process initiated"
+2025-05-17T05:03:42.020424Z Inside initialize_java_runtime
+2025-05-17T05:03:42.041643Z Attached thread tokio-runtime-worker (ThreadId(8)). 2 threads attached    
+2025-05-17T05:03:42.041940Z Attached thread tokio-runtime-worker (ThreadId(9)). 3 threads attached    
+2025-05-17T05:03:42.043973Z Attached thread tokio-runtime-worker (ThreadId(3)). 5 threads attached    
+2025-05-17T05:03:42.042987Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T05:03:42.049632Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T05:03:42.050749Z Attached thread tokio-runtime-worker (ThreadId(7)). 6 threads attached    
+2025-05-17T05:03:42.051596Z Attached thread tokio-runtime-worker (ThreadId(5)). 7 threads attached    
+2025-05-17T06:11:32.543507Z write    
+2025-05-17T06:11:32.546496Z log="Application process initiated"
+2025-05-17T06:11:32.546955Z Inside initialize_java_runtime
+2025-05-17T06:11:32.552445Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T06:11:32.552375Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T06:11:32.552248Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T06:11:32.552453Z Attached thread tokio-runtime-worker (ThreadId(7)). 5 threads attached    
+2025-05-17T06:11:32.552266Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T06:11:32.552590Z Attached thread tokio-runtime-worker (ThreadId(9)). 6 threads attached    
+2025-05-17T06:11:32.552696Z Attached thread tokio-runtime-worker (ThreadId(8)). 7 threads attached    
+2025-05-17T06:27:47.473080Z write    
+2025-05-17T06:27:47.509544Z log="Application process initiated"
+2025-05-17T06:27:47.510769Z Inside initialize_java_runtime
+2025-05-17T06:27:47.529598Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T06:27:47.529710Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T06:27:47.529812Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-17T06:27:47.529329Z Attached thread tokio-runtime-worker (ThreadId(6)). 1 threads attached    
+2025-05-17T06:46:06.152911Z write    
+2025-05-17T06:46:06.186992Z log="Application process initiated"
+2025-05-17T06:46:06.191945Z Inside initialize_java_runtime
+2025-05-17T06:46:06.289586Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T06:46:06.290229Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T06:46:06.295430Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T06:46:06.300520Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-17T07:01:26.516971Z write    
+2025-05-17T07:01:26.544214Z log="Application process initiated"
+2025-05-17T07:01:26.546232Z Inside initialize_java_runtime
+2025-05-17T07:01:26.585403Z Attached thread tokio-runtime-worker (ThreadId(6)). 1 threads attached    
+2025-05-17T07:01:26.585973Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T07:01:26.586172Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-17T07:01:26.603878Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T07:17:08.486561Z write    
+2025-05-17T07:17:08.545066Z log="Application process initiated"
+2025-05-17T07:17:08.547059Z Inside initialize_java_runtime
+2025-05-17T07:17:08.776165Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T07:17:08.790755Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-17T07:17:08.813575Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T07:17:08.844809Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T07:34:16.712842Z write    
+2025-05-17T07:34:16.724488Z log="Application process initiated"
+2025-05-17T07:34:16.726000Z Inside initialize_java_runtime
+2025-05-17T07:34:16.777073Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T07:34:16.779182Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T07:34:16.780528Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T07:34:16.787465Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-17T07:49:34.800288Z write    
+2025-05-17T07:49:34.887523Z log="Application process initiated"
+2025-05-17T07:49:34.904873Z Inside initialize_java_runtime
+2025-05-17T07:49:35.096825Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T07:49:35.096869Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T07:49:35.096919Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-17T07:49:35.097239Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T08:05:30.027082Z write    
+2025-05-17T08:05:30.076412Z log="Application process initiated"
+2025-05-17T08:05:30.087063Z Inside initialize_java_runtime
+2025-05-17T08:05:30.125872Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T08:05:30.126221Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T08:05:30.126103Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T08:05:30.129422Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-17T08:20:34.435158Z write    
+2025-05-17T08:20:34.509294Z log="Application process initiated"
+2025-05-17T08:20:34.527837Z Inside initialize_java_runtime
+2025-05-17T08:20:34.562220Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T08:20:34.568617Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T08:20:34.568925Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T08:20:34.563323Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T08:36:15.079076Z write    
+2025-05-17T08:36:15.091392Z log="Application process initiated"
+2025-05-17T08:36:15.092390Z Inside initialize_java_runtime
+2025-05-17T08:36:15.102346Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T08:36:15.103178Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T08:36:15.107440Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T08:36:15.111310Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T08:51:52.526901Z write    
+2025-05-17T08:51:52.619815Z log="Application process initiated"
+2025-05-17T08:51:52.621950Z Inside initialize_java_runtime
+2025-05-17T08:51:52.662162Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T08:51:52.670180Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T08:51:52.680527Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-17T08:51:52.681241Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T09:06:58.435460Z write    
+2025-05-17T09:06:58.441350Z log="Application process initiated"
+2025-05-17T09:06:58.442425Z Inside initialize_java_runtime
+2025-05-17T09:06:58.452397Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-17T09:06:58.452395Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T09:06:58.452606Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T09:06:58.452399Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T09:22:01.080212Z write    
+2025-05-17T09:22:01.085182Z log="Application process initiated"
+2025-05-17T09:22:01.086091Z Inside initialize_java_runtime
+2025-05-17T09:22:01.095546Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T09:22:01.095736Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T09:22:01.095723Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T09:22:01.095899Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T09:39:52.937611Z write    
+2025-05-17T09:39:52.942317Z log="Application process initiated"
+2025-05-17T09:39:52.943242Z Inside initialize_java_runtime
+2025-05-17T09:39:52.952222Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T09:39:52.951944Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T09:39:52.952593Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T09:39:52.952797Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T09:55:12.510254Z write    
+2025-05-17T09:55:12.515118Z log="Application process initiated"
+2025-05-17T09:55:12.516109Z Inside initialize_java_runtime
+2025-05-17T09:55:12.525721Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T09:55:12.525650Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T09:55:12.525404Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T09:55:12.525481Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T10:10:34.025115Z write    
+2025-05-17T10:10:34.034127Z log="Application process initiated"
+2025-05-17T10:10:34.035266Z Inside initialize_java_runtime
+2025-05-17T10:10:34.046424Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T10:10:34.046153Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T10:10:34.046309Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T10:10:34.046817Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T10:27:20.582367Z write    
+2025-05-17T10:27:20.587663Z log="Application process initiated"
+2025-05-17T10:27:20.588716Z Inside initialize_java_runtime
+2025-05-17T10:27:20.598462Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T10:27:20.599126Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T10:27:20.599191Z Attached thread tokio-runtime-worker (ThreadId(2)). 4 threads attached    
+2025-05-17T10:27:20.598465Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T10:44:49.860741Z write    
+2025-05-17T10:44:49.865786Z log="Application process initiated"
+2025-05-17T10:44:49.866720Z Inside initialize_java_runtime
+2025-05-17T10:44:49.875453Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T10:44:49.875550Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T10:44:49.876550Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T10:44:49.877185Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T11:00:01.354035Z write    
+2025-05-17T11:00:01.360454Z log="Application process initiated"
+2025-05-17T11:00:01.361433Z Inside initialize_java_runtime
+2025-05-17T11:00:01.372229Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T11:00:01.372554Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T11:00:01.373106Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T11:00:01.373376Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T11:17:42.050647Z write    
+2025-05-17T11:17:42.058551Z log="Application process initiated"
+2025-05-17T11:17:42.059671Z Inside initialize_java_runtime
+2025-05-17T11:17:42.070581Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T11:17:42.070624Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T11:17:42.073669Z Attached thread tokio-runtime-worker (ThreadId(6)). 3 threads attached    
+2025-05-17T11:17:42.073947Z Attached thread tokio-runtime-worker (ThreadId(5)). 4 threads attached    
+2025-05-17T11:35:45.976071Z write    
+2025-05-17T11:35:46.091224Z log="Application process initiated"
+2025-05-17T11:35:46.092794Z Inside initialize_java_runtime
+2025-05-17T11:35:46.240036Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T11:35:46.240048Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-17T11:35:46.240303Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T11:35:46.245697Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T11:53:22.675212Z write    
+2025-05-17T11:53:22.681837Z log="Application process initiated"
+2025-05-17T11:53:22.682957Z Inside initialize_java_runtime
+2025-05-17T11:53:22.698402Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T11:53:22.698339Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T11:53:22.698116Z Attached thread tokio-runtime-worker (ThreadId(4)). 1 threads attached    
+2025-05-17T11:53:22.701852Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-17T12:08:35.576816Z write    
+2025-05-17T12:08:35.591042Z log="Application process initiated"
+2025-05-17T12:08:35.592657Z Inside initialize_java_runtime
+2025-05-17T12:08:35.628297Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T12:08:35.628951Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T12:08:35.628984Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-17T12:08:35.630534Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T12:24:43.597215Z write    
+2025-05-17T12:24:43.615658Z log="Application process initiated"
+2025-05-17T12:24:43.616700Z Inside initialize_java_runtime
+2025-05-17T12:24:43.637450Z Attached thread tokio-runtime-worker (ThreadId(6)). 1 threads attached    
+2025-05-17T12:24:43.638988Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T12:24:43.639348Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-17T12:24:43.639699Z Attached thread tokio-runtime-worker (ThreadId(3)). 4 threads attached    
+2025-05-17T12:44:01.351322Z write    
+2025-05-17T12:44:01.363557Z log="Application process initiated"
+2025-05-17T12:44:01.365567Z Inside initialize_java_runtime
+2025-05-17T12:44:01.429268Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T12:44:01.430105Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T12:44:01.432147Z Attached thread tokio-runtime-worker (ThreadId(4)). 3 threads attached    
+2025-05-17T12:44:01.434686Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T12:59:05.529856Z write    
+2025-05-17T12:59:05.573057Z log="Application process initiated"
+2025-05-17T12:59:05.574064Z Inside initialize_java_runtime
+2025-05-17T12:59:05.639525Z Attached thread tokio-runtime-worker (ThreadId(6)). 1 threads attached    
+2025-05-17T12:59:05.648110Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T12:59:05.649302Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-17T12:59:05.649538Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T13:14:33.281196Z write    
+2025-05-17T13:14:33.289441Z log="Application process initiated"
+2025-05-17T13:14:33.290810Z Inside initialize_java_runtime
+2025-05-17T13:14:33.329326Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T13:14:33.330164Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T13:14:33.330472Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T13:14:33.330640Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T13:30:41.464189Z write    
+2025-05-17T13:30:41.475993Z log="Application process initiated"
+2025-05-17T13:30:41.480776Z Inside initialize_java_runtime
+2025-05-17T13:30:41.509239Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T13:30:41.509997Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T13:30:41.510282Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T13:30:41.510696Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T13:45:57.258743Z write    
+2025-05-17T13:45:57.263605Z log="Application process initiated"
+2025-05-17T13:45:57.264560Z Inside initialize_java_runtime
+2025-05-17T13:45:57.273856Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T13:45:57.274148Z Attached thread tokio-runtime-worker (ThreadId(6)). 4 threads attached    
+2025-05-17T13:45:57.273883Z Attached thread tokio-runtime-worker (ThreadId(4)). 2 threads attached    
+2025-05-17T13:45:57.273996Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T14:02:07.077202Z write    
+2025-05-17T14:02:07.118807Z log="Application process initiated"
+2025-05-17T14:02:07.136736Z Inside initialize_java_runtime
+2025-05-17T14:02:07.160535Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T14:02:07.165421Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T14:02:07.168067Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T14:02:07.179478Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T14:20:28.139831Z write    
+2025-05-17T14:20:28.144818Z log="Application process initiated"
+2025-05-17T14:20:28.145582Z Inside initialize_java_runtime
+2025-05-17T14:20:28.150536Z Attached thread tokio-runtime-worker (ThreadId(6)). 1 threads attached    
+2025-05-17T14:20:28.150655Z Attached thread tokio-runtime-worker (ThreadId(7)). 2 threads attached    
+2025-05-17T14:20:28.150726Z Attached thread tokio-runtime-worker (ThreadId(8)). 4 threads attached    
+2025-05-17T14:20:28.150671Z Attached thread tokio-runtime-worker (ThreadId(3)). 3 threads attached    
+2025-05-17T14:20:28.151824Z Attached thread tokio-runtime-worker (ThreadId(5)). 5 threads attached    
+2025-05-17T14:20:28.152309Z Attached thread tokio-runtime-worker (ThreadId(4)). 6 threads attached    
+2025-05-17T14:20:28.159589Z Attached thread tokio-runtime-worker (ThreadId(9)). 7 threads attached    
+2025-05-17T14:36:26.217348Z write    
+2025-05-17T14:36:26.256232Z log="Application process initiated"
+2025-05-17T14:36:26.263322Z Inside initialize_java_runtime
+2025-05-17T14:36:26.335828Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T14:36:26.335907Z Attached thread tokio-runtime-worker (ThreadId(7)). 4 threads attached    
+2025-05-17T14:36:26.335834Z Attached thread tokio-runtime-worker (ThreadId(5)). 3 threads attached    
+2025-05-17T14:36:26.335853Z Attached thread tokio-runtime-worker (ThreadId(6)). 2 threads attached    
+2025-05-17T14:36:26.336006Z Attached thread tokio-runtime-worker (ThreadId(9)). 6 threads attached    
+2025-05-17T14:36:26.336037Z Attached thread tokio-runtime-worker (ThreadId(4)). 7 threads attached    
+2025-05-17T14:36:26.335970Z Attached thread tokio-runtime-worker (ThreadId(8)). 5 threads attached    
+2025-05-17T14:56:06.142050Z write    
+2025-05-17T14:56:06.156752Z log="Application process initiated"
+2025-05-17T14:56:06.159505Z Inside initialize_java_runtime
+2025-05-17T14:56:06.182315Z Attached thread tokio-runtime-worker (ThreadId(7)). 3 threads attached    
+2025-05-17T14:56:06.181692Z Attached thread tokio-runtime-worker (ThreadId(3)). 2 threads attached    
+2025-05-17T14:56:06.182879Z Attached thread tokio-runtime-worker (ThreadId(6)). 5 threads attached    
+2025-05-17T14:56:06.181207Z Attached thread tokio-runtime-worker (ThreadId(8)). 1 threads attached    
+2025-05-17T14:56:06.183500Z Attached thread tokio-runtime-worker (ThreadId(5)). 6 threads attached    
+2025-05-17T14:56:06.182748Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T14:56:06.185954Z Attached thread tokio-runtime-worker (ThreadId(9)). 7 threads attached    
+2025-05-17T17:04:03.915888Z write    
+2025-05-17T17:04:03.920609Z log="Application process initiated"
+2025-05-17T17:04:03.921178Z Inside initialize_java_runtime
+2025-05-17T17:04:03.927458Z Attached thread tokio-runtime-worker (ThreadId(5)). 2 threads attached    
+2025-05-17T17:04:03.927358Z Attached thread tokio-runtime-worker (ThreadId(3)). 1 threads attached    
+2025-05-17T17:04:03.927634Z Attached thread tokio-runtime-worker (ThreadId(4)). 4 threads attached    
+2025-05-17T17:04:03.927650Z Attached thread tokio-runtime-worker (ThreadId(6)). 5 threads attached    
+2025-05-17T17:04:03.927487Z Attached thread tokio-runtime-worker (ThreadId(9)). 3 threads attached    
+2025-05-17T17:04:03.927720Z Attached thread tokio-runtime-worker (ThreadId(10)). 6 threads attached    
+2025-05-17T17:04:03.927804Z Attached thread tokio-runtime-worker (ThreadId(7)). 7 threads attached    
+2025-05-17T17:04:03.927839Z Attached thread tokio-runtime-worker (ThreadId(8)). 8 threads attached    
